@@ -23,7 +23,7 @@ If you are using **GitHub Codespaces**, make sure to run the following command i
 git pull --no-rebase
 ```
 
-This ensures you have the most up-to-date files (like `basic-tests.py`) from the starter repository before making any edits.
+This ensures you have the most up-to-date files from the starter repository before making any edits.
 
 ---
 
@@ -213,7 +213,7 @@ You must:
 
 You must commit and push the following files to your GitHub Classroom repository:
 
-- `lab1.py` – your main implementation file  
+- `proj1.py` – your main implementation file  
 - `test_student.py` – your test suite with at least one test per function  
 
 A file called `test_1.py` is included to check that:
@@ -222,6 +222,6 @@ A file called `test_1.py` is included to check that:
 
 ### ✅ Reminder:
 - Do **not edit** `test_1.py`
-- Ensure both `lab1.py` and `test_student.py` are committed and pushed
+- Ensure both `proj1.py` and `test_student.py` are committed and pushed
 - Push your code to GitHub — verify your changes appear on the GitHub website
 - You won't see a green check mark, look at the action workflow auto-grader output. 
